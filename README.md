@@ -3,7 +3,7 @@
 
 This website is created with HTML and CSS only. It is not fully mobile responsive till now, though I have tried to give it a little responsiveness. I will update this project very soon to make it mobile responsive. It took me almost 5 to 6 hours to complete this project. All the images and logos were provided by iNeuron team.
 
-[Click Here]() to view the website.
+[Click Here](https://fsjs-assignment9.netlify.app/) to view the website.
 
 ### Screenshots of the web-page:
 
